@@ -16,8 +16,3 @@ Client side is built using amazing **Xamarin.Forms** with MVVM approach.
 **Video:**
 
 [![alt text](http://img.youtube.com/vi/b_M1hl9G0nQ/0.jpg)](http://www.youtube.com/watch?v=b_M1hl9G0nQ)
-
-Authors
--------
-
-Egor Bogatov
